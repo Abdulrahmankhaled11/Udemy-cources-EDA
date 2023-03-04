@@ -4,4 +4,4 @@
 <p >This EDA is in some factors which can affect the promotion and earnings from Udemy courses and which the perfect way to make a good saled course in Udemy</p>
 
 ##  ----- Used libraries -----
-
+- Numpy
