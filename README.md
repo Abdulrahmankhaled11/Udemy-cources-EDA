@@ -6,4 +6,5 @@
 ##  ----- Used libraries -----
 - Numpy
 - Pandas
-- matplotlib
+- Matplotlib
+- Seaborn
