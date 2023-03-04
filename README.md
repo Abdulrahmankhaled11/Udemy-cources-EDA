@@ -5,3 +5,4 @@
 
 ##  ----- Used libraries -----
 - Numpy
+- Pandas
