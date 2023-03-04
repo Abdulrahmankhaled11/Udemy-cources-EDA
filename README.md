@@ -6,3 +6,4 @@
 ##  ----- Used libraries -----
 - Numpy
 - Pandas
+- matplotlib
